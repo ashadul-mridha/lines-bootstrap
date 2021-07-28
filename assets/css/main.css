@@ -30,28 +30,28 @@ body{
 
 /* index bg  */
 .index-bg{
-    background-image: url('/assets/images/index-bg.jpg');
+    background-image: url('../images/index-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; 
 }
 /* .architecture-bg */
 .architecture-bg{
-    background-image: url('/assets/images/architecture.jpg');
+    background-image: url('../images/architecture.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; 
 }
 /* .architecture-bg */
 .marketing-bg{
-    background-image: url('/assets/images/marketing.jpg');
+    background-image: url('../images/marketing.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; 
 }
 /* .architecture-bg */
 .code-bg{
-    background-image: url('/assets/images/code.jpg');
+    background-image: url('../images/code.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; 
