@@ -1,0 +1,59 @@
+/* common css */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header css */
+
+.logo h4{
+    letter-spacing: 5px;
+}
+
+
+
+.line{
+    position: relative;
+}
+.line::after{
+    position: absolute;
+    content: " ";
+    width: 40%;
+    height: 10%;
+    background-color: rgb(216, 52, 52);
+    bottom: -10%;
+    left: 0%;
+}
+
+/* index bg  */
+.index-bg{
+    background-image: url('/assets/images/index-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+/* .architecture-bg */
+.architecture-bg{
+    background-image: url('/assets/images/architecture.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+/* .architecture-bg */
+.marketing-bg{
+    background-image: url('/assets/images/marketing.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+/* .architecture-bg */
+.code-bg{
+    background-image: url('/assets/images/code.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
